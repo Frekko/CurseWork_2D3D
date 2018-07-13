@@ -1,0 +1,97 @@
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe.config
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.xml
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.xml
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form1.resources
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Properties.Resources.resources
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.GenerateResource.Cache
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.exe
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form2.resources
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\Windows_2111\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form3.resources
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe.config
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.exe
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.pdb
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.pdb
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.dll
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.dll
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.dll
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.pdb
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.xml
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.xml
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.pdb
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.xml
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csprojResolveAssemblyReference.cache
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form1.resources
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Properties.Resources.resources
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.GenerateResource.Cache
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.MainMenuForm.resources
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.SettingsForm.resources
+D:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Picture.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe.config
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.exe
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.pdb
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.pdb
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.pdb
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.xml
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.pdb
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.xml
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.pdb
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.xml
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csprojResolveAssemblyReference.cache
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form1.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.MainMenuForm.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Picture.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.SettingsForm.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Properties.Resources.resources
+F:\Programming\C#\TRSPC\Julia\cursework\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.GenerateResource.Cache
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe.config
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.exe
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.pdb
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.pdb
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.pdb
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.xml
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.pdb
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.xml
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.pdb
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.xml
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csprojResolveAssemblyReference.cache
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form1.resources
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.MainMenuForm.resources
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Picture.resources
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.SettingsForm.resources
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Properties.Resources.resources
+G:\Programing\CurseWork\CurseWork_2D3D\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.GenerateResource.Cache
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe.config
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.exe
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.pdb
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.exe
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\CurseWork_2D3D.pdb
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.pdb
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.xml
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.pdb
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.SceneGraph.xml
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.pdb
+F:\Programming\CS\CurseWork_2D3D\bin\Debug\SharpGL.WinForms.xml
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csprojAssemblyReference.cache
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Form1.resources
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.MainMenuForm.resources
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Picture.resources
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.SettingsForm.resources
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.Properties.Resources.resources
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.GenerateResource.cache
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.CoreCompileInputs.cache
+F:\Programming\CS\CurseWork_2D3D\obj\Debug\CurseWork_2D3D.csproj.CopyComplete
